@@ -33,7 +33,12 @@ pip install pandas fpdf openpyxl
 
 ### 3. File Structure
 
-<pre> ```text 3. 📁 File Structure TASK02_CODTECH/ ├── data.xlsx # Input Excel file with student names and marks ├── report_generator.py # Main Python script ├── marks_report.pdf # Output PDF report (generated after running the script) └── README.md # Project documentation ``` </pre>
+<pre> ```text 3. File Structure
+  TASK02_CODTECH/
+       ├── data.xlsx   # Input Excel file with student names and marks 
+       ├── report_generator.py # Main Python script
+       ├── marks_report.pdf # Output PDF report (generated after running the script)
+       └── README.md # Project documentation ``` </pre>
 
 
 ### 4. Run the Script
