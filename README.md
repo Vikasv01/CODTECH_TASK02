@@ -20,18 +20,18 @@ This project is part of **Task 02** of the **CODTECH Python Internship**. It rea
 
 ##  How to Run
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 
 
 git clone https://github.com/your-username/task02-report-generator.git
 cd task02-report-generator
 
-### 2.  Install Required Packages
+ 2.  Install Required Packages
 
 pip install pandas fpdf openpyxl
 
 
-### 3. File Structure
+ 3. File Structure
 
 <pre>  TASK02_CODTECH
        ├── data.xlsx   # Input Excel file with student names and marks 
@@ -40,7 +40,7 @@ pip install pandas fpdf openpyxl
        └── README.md # Project documentation  </pre>
 
 
-### 4. Run the Script
+ 4. Run the Script
 
 python report_generator.py
 
